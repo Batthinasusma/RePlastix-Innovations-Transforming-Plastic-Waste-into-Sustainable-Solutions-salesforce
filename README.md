@@ -1,4 +1,4 @@
-# RePlastix-Innovations-Transforming-Plastic-Waste-into-Sustainable-Solutions-salesforce*
+# RePlastix-Innovations-Transforming-Plastic-Waste-into-Sustainable-Solutions-salesforce
 
 Project Description  :
 
