@@ -11,5 +11,7 @@ Trailhead Profile:https://trailhead.salesforce.com/users/smartbridgesupport/trai
 
 Project Demo Video :https://drive.google.com/file/d/1QAHkn3SFXBvlTikU6z_CM1O2m_s-YTx5/view?usp=sharing
 
+Project Report link : https://github.com/Batthinasusma/RePlastix-Innovations-Transforming-Plastic-Waste-into-Sustainable-Solutions-salesforce/blob/main/Project%20Report/Salesforce%20Capstone%20Project.pdf
+
 
 
