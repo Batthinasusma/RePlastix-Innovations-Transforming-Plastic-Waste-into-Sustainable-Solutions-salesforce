@@ -1,7 +1,11 @@
 # RePlastix-Innovations-Transforming-Plastic-Waste-into-Sustainable-Solutions-salesforce*
 
-Project Description
+Project Description  :
+
 RePlastix Innovations is a custom-built Salesforce CRM solution developed to automate and manage plastic waste recycling operations. The CRM is tailored to streamline plastic waste collection, monitor stock levels of recycled products, manage customer orders, and handle restock workflows—all within Salesforce.
+
+
+
 
 Trailhead Profile:https://trailhead.salesforce.com/users/smartbridgesupport/trailmixes/trailmix-by-smart-bridge-vip-2025
 
